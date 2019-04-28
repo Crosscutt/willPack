@@ -1,0 +1,19 @@
+{
+    "name": "cross/jw",
+    "description": "Este proyecto es para poder acelerar la productividad de los desarrolladores de software de gestion -------Lenguajes: LADO DEL SERVIDOR:PHP con laravel , LADO DEL CLIENTE: ReactJS",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wigner",
+            "email": "wigner@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "cross\\jw\\": "src/"
+        }
+    }
+}
