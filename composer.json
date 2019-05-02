@@ -13,7 +13,7 @@
     "require": {},
     "autoload-dev": {
         "psr-4": {
-            "cross\\jw\\": "src/"
+            "wigner\\jw\\": "src/"
         }
     }
 }
